@@ -13,6 +13,4 @@ int main(){
     //Informa ao compilador(tradutor) gcc que o programa acabou
     return 0;
 
-
-
 }
